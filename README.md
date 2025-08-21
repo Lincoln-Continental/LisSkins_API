@@ -1,6 +1,6 @@
 ## ▌ Asynchronous Module for Interacting with the Lis Skins API
 
-This project is an asynchronous Python module designed to facilitate interaction with the LIS Skins API. The module allows users to retrieve account balances, purchase skins, view their purchase histories, withdraw unlocked skins, and return locked ones, perform all actions that Lis Skins API allows. 
+This project is an asynchronous Python module designed to facilitate interaction with the LIS Skins API. The module allows perform all API actions such as retrieve account balances, purchase skins, view their purchase histories, withdraw unlocked skins, and return locked ones
 
 > Current API documentation can be found [here](https://lis-skins.stoplight.io/docs/lis-skins/)
 
